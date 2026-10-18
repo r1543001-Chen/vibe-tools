@@ -98,7 +98,7 @@
 
 ```text
 Whack-a-Mole/
-├── whack_a_mole_v1_1.html  # 目前遊戲版本，獨立可執行
+├── index.html  # 目前遊戲版本，獨立可執行
 ├── README.md               # 專案介紹與使用說明
 ├── CHANGELOG.md            # 程式發行紀錄與逐版規格討論歷程
 └── SPEC.md                 # 已確認的遊戲規格與驗收項目
